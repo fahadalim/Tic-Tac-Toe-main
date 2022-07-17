@@ -15,7 +15,7 @@ You may also see any lint errors in the console.
 ![](demo.gif)
 
 ### Application Demo -
-https://velu-tic-tac-tac.netlify.app/
+https://fahadtictactoe.netlify.app/
 
 
 ### Development steps-
